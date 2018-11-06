@@ -1,0 +1,35 @@
+bookmark_text:
+text of the link text - just in the immediately visible bar.
+
+tab_background_text:
+inactive tab text colour
+
+tab_text:
+active tab text colour
+
+toolbar:
+bottom download bar colour
+
+button_background:
+background colour of action buttons
+
+tab_background:
+background colour of an inactive tab
+
+frame:
+immediate tab background color
+
+theme_tab_background:
+background of background tabs
+
+theme_toolbar:
+background of the main toolbar, and of the active tab.
+
+
+
+
+ntp_background:
+background of new tab screen
+
+ntp_text:
+new tab screen text colour

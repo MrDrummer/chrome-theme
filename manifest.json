@@ -4,12 +4,13 @@
    "name": "Space Theme",
    "theme": {
       "colors": {
-         "bookmark_text": [ 255, 245, 244 ],
-         "ntp_background": [ 204, 204, 204 ],
-         "ntp_text": [ 255, 245, 244 ],
-         "tab_background_text": [ 155, 248, 148 ],
-         "tab_text": [ 0, 0, 0 ],
-         "toolbar": [ 35, 0, 67 ]
+         "bookmark_text": [ 117, 164, 198 ],
+         "tab_background_text": [ 58, 58, 58 ],
+         "tab_text": [ 106, 165, 209 ],
+         "toolbar": [ 35, 0, 67 ],
+         "button_background": [ 0, 0, 0 ],
+         "tab_background": [ 0, 0, 0 ],
+         "frame": [ 0, 0, 0 ]
       },
       "images": {
          "theme_frame": "theme_frame.png",
