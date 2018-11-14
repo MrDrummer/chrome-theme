@@ -1,0 +1,31 @@
+{
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhD59IMOFpQX/Y6FdhW/dDLf5owHfWX03m+Xw4CnacKE4V5HnzSKOFa1fXebFI7noJj8+0urav8uZAeT9X8Fq6OceSh6le3MfuWOdkit6JLUVAQtnk5IuVY/JMdkTtuDG136t6adUZpKs3B2SNHeJx2/uz6g8WLA96mg2GtmW6QxbWFtRkL74/VEX9fph9gl4ivWvGjVcnN7Vz67K+HlDapZPnU0T0ib9W9gkPv2PS50gpFubaTcvWfYkBId3KknW28vcxiGPUvHI6XnjeW6I25HrlUsagAMGqMTC+KR+pbwUIenVvC9wWyL1rENF/yycSx3/1YZ2slLDhCOxkl9eGwIDAQAB",
+  "manifest_version": 2,
+  "name": "Space Theme",
+  "theme": {
+     "colors": {
+        "bookmark_text": [ 117, 164, 198 ],
+        "tab_background_text": [ 58, 58, 58 ],
+        "tab_text": [ 106, 165, 209 ],
+        "toolbar": [ 35, 0, 67 ],
+        "button_background": [ 0, 0, 0 ],
+        "tab_background": [ 0, 0, 0 ],
+        "frame": [ 0, 0, 0 ]
+     },
+     "images": {
+        "theme_frame": "theme_frame.png",
+        "theme_ntp_background": "theme_ntp_background.png",
+        "theme_tab_background": "theme_tab_background.png",
+        "theme_toolbar": "theme_toolbar.png"
+     },
+     "properties": {
+        "ntp_background_alignment": "center",
+        "ntp_background_repeat": "no-repeat"
+     },
+     "tints": {
+        "buttons": [ -1, -1, 1 ]
+     }
+  },
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "1.0.0"
+}
